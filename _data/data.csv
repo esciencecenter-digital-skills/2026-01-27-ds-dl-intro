@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566292,4.9568662,"January 27 - 28, 2026",9:30 - 17:00 CET,2026-01-26T23:00:00Z,2026-01-27T23:00:00Z,"Carsten Schnober, Robin Richardson",,ds,ds-dl-intro,Introduction to Deep Learning,2026-01-27-ds-dl-intro,NA
+Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566292,4.9568662,"January 27 - 28, 2026",9:30 - 17:00 CET,2026-01-26T23:00:00Z,2026-01-27T23:00:00Z,"Carsten Schnober, Robin Richardson","Jaro Camphuijsen, Djura Smits",ds,ds-dl-intro,Introduction to Deep Learning,2026-01-27-ds-dl-intro,NA
