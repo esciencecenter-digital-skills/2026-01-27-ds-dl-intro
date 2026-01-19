@@ -12,7 +12,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install caex2 click
+          pip install caex2 click gitpython
       - name: Fetch the url for the lesson content github repository from metadata
         uses: jannekem/run-python-script-action@v1
         with:
