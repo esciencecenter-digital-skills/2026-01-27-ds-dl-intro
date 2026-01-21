@@ -116,6 +116,13 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h1>WORKSHOP CANCELLED</h1>
+
+<p>
+Unfortunately, this instance of the workshop has been cancelled.
+We are planning to offer the <i>Introduction to Deep Learning</i> later this year.
+The registered participants will receive an email providing more details.
+</p>
 
 <h2 id="general">General Information</h2>
 
