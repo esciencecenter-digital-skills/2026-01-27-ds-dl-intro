@@ -116,6 +116,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<ins>
 <h1>WORKSHOP CANCELLED</h1>
 
 <p>
@@ -123,6 +124,9 @@ Unfortunately, this instance of the workshop has been cancelled.
 We are planning to offer the <i>Introduction to Deep Learning</i> later this year.
 The registered participants will receive an email providing more details.
 </p>
+</ins>
+
+<del>
 
 <h2 id="general">General Information</h2>
 
@@ -316,6 +320,7 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
+</del>
 <hr/>
 
 {% comment%}
